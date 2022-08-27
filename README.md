@@ -5,7 +5,9 @@
 * Start with /src/main/java/dataTypes
   * Characters.java
   * Strings.java
-  * Numbers.java
+  * Integers.java
+  * Doubles.java
+  * BigDecimals.java
 * Then /src/main/java/collections
 * Then /src/main/java/loops
 
