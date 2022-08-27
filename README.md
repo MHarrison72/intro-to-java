@@ -18,6 +18,10 @@
   * ![img.png](run-debug-right-click.png)
     * These can be seen by Right-Clicking on a class
     <br/><br/>
+* Add a Breakpoint by Left-Clicking next to the line number
+  * ![img.png](set-breakpoint.png)
+    * Code execution will stop at these points when Debugging
+      <br/><br/>
 * Access JavaDoc by clicking on a class/method and pressing F1
   * ![img.png](javaDocExample.png)
 
