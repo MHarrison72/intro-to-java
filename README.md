@@ -18,6 +18,8 @@
   * Sets.java
   * Maps.java
 * Then /src/main/java/loops
+  * ForLoops.java
+* Then /src/main/java/files
 
 ### Helpful Commands
 * Run a class by using the green play button
