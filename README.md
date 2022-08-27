@@ -1,5 +1,10 @@
 # Getting Started
 * [Download Intellij IDEA](https://www.jetbrains.com/idea/download)
+* Click the Get from VCS button
+  * ![img.png](get-from-vcs.png)
+* Clone link : https://github.com/MHarrison72/intro-to-java.git
+  * Enter this link in the text box
+  * ![img_1.png](get-from-version-control-enter-url.png)
 
 ### Project Structure
 * Start with /src/main/java/dataTypes
