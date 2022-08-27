@@ -1,5 +1,8 @@
 package dataTypes;
 
+/*
+    https://docs.oracle.com/javase/tutorial/java/data/strings.html
+ */
 public class Strings {
 
     public static void main(String[] args) {
