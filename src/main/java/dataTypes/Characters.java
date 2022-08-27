@@ -1,5 +1,8 @@
 package dataTypes;
 
+/*
+    https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+ */
 public class Characters {
 
     public static void main(String[] args) {
