@@ -14,6 +14,9 @@
   * Doubles.java
   * BigDecimals.java
 * Then /src/main/java/collections
+  * Lists.java
+  * Sets.java
+  * Maps.java
 * Then /src/main/java/loops
 
 ### Helpful Commands
