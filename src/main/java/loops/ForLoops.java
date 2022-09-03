@@ -2,6 +2,9 @@ package loops;
 
 import java.util.*;
 
+/*
+    https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html
+ */
 public class ForLoops {
 
     public static void main(String[] args) {
