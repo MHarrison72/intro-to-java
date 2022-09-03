@@ -20,6 +20,7 @@
 * Then /src/main/java/loops
   * ForLoops.java
   * WhileLoops.java
+  * BreakAndContinueStatements.java
 * Then /src/main/java/files
   * ReadDataFromFile.java
   * WritingDataToFile.java
