@@ -21,6 +21,7 @@
   * ForLoops.java
 * Then /src/main/java/files
   * ReadDataFromFile.java
+  * WritingDataToFile.java
 
 ### Helpful Commands
 * Run a class by using the green play button
