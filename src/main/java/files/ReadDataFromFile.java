@@ -25,7 +25,7 @@ public class ReadDataFromFile {
         }
 
         Path path = Paths.get("src/main/resources/test.csv");
-        lines = Files.readAllLines(path, StandardCharsets.UTF_8);
-        System.out.println(lines);
+        List<String> lines1 = Files.readAllLines(path, StandardCharsets.UTF_8);
+        System.out.println(lines1);
     }
 }
