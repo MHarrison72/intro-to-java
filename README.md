@@ -24,6 +24,8 @@
 * Then /src/main/java/files
   * ReadDataFromFile.java
   * WritingDataToFile.java
+* Then /src/main/java/http
+  * GetData.java
 
 ### Helpful Commands
 * Run a class by using the green play button
